@@ -1,0 +1,5 @@
+class queue:
+def__init__(self):
+self.values[]
+def enqueue(self,x):
+self.values.append(x)

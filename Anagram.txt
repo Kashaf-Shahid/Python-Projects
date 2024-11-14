@@ -1,0 +1,10 @@
+word1 = "listen"
+word2 = "silent"
+sorted_word1 = sored(word1)
+sorted_word2 =s ored(word2)
+is_anagram = sorted_word1 == sorted_word2
+
+if is_anagram:
+    print("The words are anagram")
+else:
+    print("The words ar not anagram")
